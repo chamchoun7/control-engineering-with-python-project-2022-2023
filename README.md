@@ -14,7 +14,7 @@ Your team: group number ❔
   
   - Student 3: Dounia Ait Sabban `github user name`
 
-  - Student 4: Hiba Namez `github user name`
+  - Student 4: Hiba Namez `hnamez`
 
 ## Getting Started
 
