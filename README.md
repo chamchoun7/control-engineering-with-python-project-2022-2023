@@ -12,7 +12,7 @@ Your team: 10
 
   - Student 2: Houssam Ait Arejdal `Isagi-Houssam`
   
-  - Student 3: Dounia Ait Sabban `github user name`
+  - Student 3: Dounia Ait Sabban `douniaaitsabban`
 
   - Student 4: Hiba Namez `hnamez`
 
